@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-12 19:17:55,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2026-07-13 06:57:15,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -59,7 +59,6 @@
 ☘️山西频道,#genre#
 
 ☘️安徽频道,#genre#
-黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 
 ☘️宁夏频道,#genre#
 
