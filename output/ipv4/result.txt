@@ -1,20 +1,12 @@
 🕘️更新时间,#genre#
-2026-07-12 06:58:40,http://115.48.161.108:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-07-12 19:17:55,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-6,http://115.48.161.108:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://115.48.161.108:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://115.48.161.108:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://125.42.148.50:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://115.48.161.108:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://115.48.161.108:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://115.48.161.108:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-东南卫视,http://125.42.148.50:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 
 ☘️广东频道,#genre#
@@ -67,6 +59,7 @@ CCTV-14,http://115.48.161.108:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1
 ☘️山西频道,#genre#
 
 ☘️安徽频道,#genre#
+黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 
 ☘️宁夏频道,#genre#
 
@@ -89,7 +82,6 @@ CCTV-14,http://115.48.161.108:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-金鹰卡通,http://125.42.148.50:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
